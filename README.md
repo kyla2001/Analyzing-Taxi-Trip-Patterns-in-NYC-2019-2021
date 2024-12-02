@@ -1,7 +1,7 @@
 # Analyzing Taxi Trip Patterns in NYC (2019–2021)
 
 ## Project Overview
-This project focuses on analyzing taxi trip patterns in New York City using trip data from Yellow and Green Taxis between 2019 and 2021. How COVID-19 reshaped taxi usage in NYC spatially, economically, and socially.
+This project focuses on analyzing taxi trip patterns in New York City using trip data from Yellow and Green Taxis between 2019 and 2021. How COVID-19 reshaped taxi usage in NYC spatially, economically, and socially. slides:https://docs.google.com/presentation/d/1aELyzroSV7WJfkgB4oMVoOTJ9B4J7eN1xs9D2_SWg0U/edit?usp=sharing
 
 ## Team Members
 - **Yibei Li** (`yl3692`)
