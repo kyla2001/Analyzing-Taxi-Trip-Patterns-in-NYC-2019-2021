@@ -1,29 +1,35 @@
-Analyzing Taxi Trip Patterns in NYC (2019–2021)
-Project Overview
-This project analyzes taxi trip patterns in New York City using data from Yellow and Green Taxi trips from 2019 to 2021. Our objective is to gain insights into taxi trip behaviors, fare structures, and geographic usage patterns across different boroughs.
+# Analyzing Taxi Trip Patterns in NYC (2019–2021)
 
-Team Members
-Yibei Li (yl3692)
-Yuchuan Zhang (yz2947)
-Joy Wang (zw673)
-Dataset Description
-The primary dataset consists of NYC Yellow and Green Taxi trip records from 2019 to 2021. This data provides comprehensive trip information, including:
+## Project Overview
+This project focuses on analyzing taxi trip patterns in New York City using trip data from Yellow and Green Taxis between 2019 and 2021. How COVID-19 reshaped taxi usage in NYC spatially, economically, and socially.
 
-Trip details: Pickup and dropoff times, trip distances, fare amounts, passenger counts.
-Geographic information: PULocationID (Pickup Location ID) and DOLocationID (Dropoff Location ID).
-Fare structure variables: RatecodeID, payment type, congestion surcharge, and more.
-Key Characteristics of Taxis:
-Yellow Taxis: Operate mainly in Manhattan.
-Green Taxis: Serve outer boroughs such as Brooklyn, Queens, and the Bronx, with limited operations in Manhattan.
-Why This Dataset?
-The inclusion of fare structure variables enables us to explore pricing dynamics and assess the impact of taxi regulations, such as congestion surcharges and rate codes, on fare amounts.
+## Team Members
+- **Yibei Li** (`yl3692`)
+- **Yuchuan Zhang** (`yz2947`)
+- **Joy Wang** (`zw673`)
 
-Data Sources
-NYC Taxi Fare Information: NYC Taxi Fare
-NYC Taxi Zones: NYC Taxi Zones
-Yellow and Green Taxi Trip Records: TLC Trip Record Data
-Taxi Trip Data Dictionary: Data Dictionary
-Objectives
-Analyze trip behaviors: Identify temporal and spatial patterns in taxi usage.
-Explore fare dynamics: Investigate how fare structures vary with trip distances, locations, and time periods.
-Understand geographic trends: Examine how Yellow and Green taxis serve different parts of NYC.
+## Dataset Description
+The project uses NYC Yellow and Green Taxi trip datasets, which include the following key features:
+- **Trip Information**: Pickup and dropoff times, trip distances, passenger counts, and fare amounts.
+- **Geographic Information**: Pickup and Dropoff Location IDs (PULocationID and DOLocationID).
+- **Fare Structure Variables**: RatecodeID, payment type, and congestion surcharge, allowing for an in-depth investigation into pricing and taxi regulations.
+
+### Taxi Service Areas
+- **Yellow Taxis**: Predominantly operate in Manhattan.
+- **Green Taxis**: Serve the outer boroughs (Brooklyn, Queens, Bronx), with limited operation in Manhattan.
+
+## Data Sources
+- **NYC Taxi Fare Information**: [NYC Taxi Fare](https://www.nyc.gov/site/tlc/passengers/taxi-fare.page)
+- **NYC Taxi Zones(.csv/.shp)**: [NYC Taxi Zones](https://data.cityofnewyork.us/Transportation/NYC-Taxi-Zones/d3c5-ddgc)
+- **Yellow and Green Taxi Trip Records**: [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+- **Taxi Trip Data Dictionary**: [Data Dictionary](https://drive.google.com/drive/folders/1_uNv3ptBu1VkD8bK_MRVZNeMFaaYjGBv?usp=drive_link)
+
+## Objectives
+1. **Analyze Trip Behaviors**:
+   - Identify temporal patterns in taxi usage (e.g., rush hours, seasonal trends).
+   - Examine spatial distribution of pickups and dropoffs.
+2. **Explore Fare Dynamics**:
+   - Assess fare variations based on trip distance, time, and location.
+   - Investigate the impact of taxi regulations, such as congestion surcharges.
+3. **Understand Geographic Trends**:
+   - Evaluate how Yellow and Green taxis serve different boroughs and regions.
