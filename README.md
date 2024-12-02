@@ -20,9 +20,9 @@ The project uses NYC Yellow and Green Taxi trip datasets, which include the foll
 
 ## Data Sources
 - **NYC Taxi Fare Information**: [NYC Taxi Fare](https://www.nyc.gov/site/tlc/passengers/taxi-fare.page)
-- **NYC Taxi Zones (.csv / .shp)**: [NYC Taxi Zones](https://data.cityofnewyork.us/Transportation/NYC-Taxi-Zones/d3c5-ddgc)
-- **Yellow and Green Taxi Trip Records**: [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
-- **Taxi Trip Data Dictionary**: [Data Dictionary](https://drive.google.com/drive/folders/1_uNv3ptBu1VkD8bK_MRVZNeMFaaYjGBv?usp=drive_link)
+- **NYC Taxi Zones (.csv / .shp)**: 'tazi_zones.csv' & '../data/NYC Taxi Zones'
+- **Yellow and Green Taxi Trip Records**: [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) '../data/2019' & '../data/2020' & '../data/2021'
+- **Taxi Trip Data Dictionary**: 'Yellow_Taxi_Trip_Data_Data_Dictionary.xlsx' & 'Green_Taxi_Trip_Data_Data_Dictionary.xlsx'
 
 ## Objectives
 1. **Analyze Trip Behaviors**:
