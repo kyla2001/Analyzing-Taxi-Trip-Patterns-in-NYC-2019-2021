@@ -20,7 +20,7 @@ The project uses NYC Yellow and Green Taxi trip datasets, which include the foll
 
 ## Data Sources
 - **NYC Taxi Fare Information**: [NYC Taxi Fare](https://www.nyc.gov/site/tlc/passengers/taxi-fare.page)
-- **NYC Taxi Zones(.csv/.shp)**: [NYC Taxi Zones](https://data.cityofnewyork.us/Transportation/NYC-Taxi-Zones/d3c5-ddgc)
+- **NYC Taxi Zones (.csv / .shp)**: [NYC Taxi Zones](https://data.cityofnewyork.us/Transportation/NYC-Taxi-Zones/d3c5-ddgc)
 - **Yellow and Green Taxi Trip Records**: [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - **Taxi Trip Data Dictionary**: [Data Dictionary](https://drive.google.com/drive/folders/1_uNv3ptBu1VkD8bK_MRVZNeMFaaYjGBv?usp=drive_link)
 
