@@ -6,6 +6,9 @@ This project focuses on analyzing taxi trip patterns in New York City using trip
 [Project Milestone](https://docs.google.com/document/d/1sHUgODUegIMGREHmRuXCs1FDFKoeH3-JHuTHGHtS3Ag/edit?usp=sharing)
 
 <img src="results_geo/green_dropoff_heatmap.gif" width="300">
+<img src="results_geo/yellow_dropoff_heatmap.gif" width="300">
+<img src="results_geo/green_pickup_heatmap.gif" width="300">
+<img src="results_geo/yellow_pickup_heatmap.gif" width="300">
 
 ## Team Members
 - **Yibei Li** (`yl3692`)
