@@ -5,6 +5,8 @@ This project focuses on analyzing taxi trip patterns in New York City using trip
 [Presentation Slides](https://docs.google.com/presentation/d/1aELyzroSV7WJfkgB4oMVoOTJ9B4J7eN1xs9D2_SWg0U/edit?usp=sharing) [Project Proposal](https://docs.google.com/document/d/1twahUp5GtmELRB3zR8a6gOU-vDn9rRyA-KzAVk1NrcY/edit?usp=sharing) 
 [Project Milestone](https://docs.google.com/document/d/1sHUgODUegIMGREHmRuXCs1FDFKoeH3-JHuTHGHtS3Ag/edit?usp=sharing)
 
+<img src="images/example.gif" width="300">
+
 ## Team Members
 - **Yibei Li** (`yl3692`)
 - **Yuchuan Zhang** (`yz2947`)
